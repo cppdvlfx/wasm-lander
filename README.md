@@ -9,3 +9,5 @@ emcmake cmake ..
 emmake make -j
 
 
+Note: This would work as long as you use emscripten sourced environment: https://emscripten.org/docs/getting_started/downloads.html#installation-instructions-using-the-emsdk-recommended
+
